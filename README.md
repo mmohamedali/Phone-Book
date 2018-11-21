@@ -1,2 +1,3 @@
 # Phone-Book
-A phone book application where the user can add a contact, deleted a contact, and see the contact list.
+
+A phonebook application where a user can add contacts, delete contacts, see the contact list, search alphabetically, save the phonebook in an external file, and upload a file into the application. 
